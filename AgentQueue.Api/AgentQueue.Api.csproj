@@ -11,7 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\AgentQueue.Domain\AgentQueue.Domain.csproj" />
+    <ProjectReference Include="..\AgentQueue.Domain\AgentQueue.Domain.csproj" />
   </ItemGroup>
 
 </Project>
