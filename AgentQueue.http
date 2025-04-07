@@ -1,0 +1,6 @@
+@AgentQueue_HostAddress = http://localhost:5056
+
+GET {{AgentQueue_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
